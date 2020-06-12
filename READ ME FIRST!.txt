@@ -1,0 +1,12 @@
+When you open 'RobloxApp.exe' Go to "Tools" in the upper left, then "Settings" Then go to Rendering, then set "graphicsMode" to "OpenGL stable" if its already that then press Close and it should say "Some settings will not take effect until you restart ROBLOX" so then restart, and open it back up and now you can open a map and if you want to become a Player go to "Tools" then "Execute script" then find Play Solo 2006.lua And have fun now!
+
+
+
+
+
+
+
+
+
+
+(MORE CLIENTS SOON ON GAMEBANANA!)
